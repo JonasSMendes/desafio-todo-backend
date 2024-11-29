@@ -45,7 +45,10 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ![image](https://github.com/user-attachments/assets/b86a6e18-d04b-4bd3-bcca-b5e7f64b1926);
 
--  Teste Unitario;
+-  Testes Unitarios;
+
+![image](https://github.com/user-attachments/assets/70e7acd3-f8b2-424f-bbb0-90f2a57c87db)
+
 
 -  Config banco mysql;
 
