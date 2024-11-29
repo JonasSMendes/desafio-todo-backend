@@ -33,6 +33,13 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 - **Java**
 - **SpringBoot**
+  - Lombok
+  - spring-web
+  - validation
+  - devtools
+  - jpa
+  - webflux
+  - H2 para testes 
 - **Mysql**
 
 ## ⚙️ construção de projeto
