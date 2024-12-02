@@ -14,7 +14,6 @@ class DesafioToDoApplicationTests {
 	private WebTestClient webTestClient;
 
 
-
 	@Test
 	void testCreateTodoSuccess() {
 		var todo = new Todo("Todo 2 Up", "Todo 2 Up", false, 1);
@@ -33,7 +32,6 @@ class DesafioToDoApplicationTests {
 				.jsonPath("$[0].realizado").isEqualTo(todo.getRealizado())
 				.jsonPath("$[0].prioridade").isEqualTo(todo.getPrioridade());
 	}
-
 	@Test
 	void testCreateTodoFailure() {
 		webTestClient
