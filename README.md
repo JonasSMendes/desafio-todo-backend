@@ -34,6 +34,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **Java**
 - **SpringBoot**
   - Lombok
+  - Spring-doc
   - spring-web
   - validation
   - devtools
