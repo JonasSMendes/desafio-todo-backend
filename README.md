@@ -49,7 +49,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ![image](https://github.com/user-attachments/assets/061c1a61-bced-4797-ae45-80cdefda6c53);
 
--  Estrutura MVC;
+-  Estrutura MC;
 
 ![image](https://github.com/user-attachments/assets/b86a6e18-d04b-4bd3-bcca-b5e7f64b1926);
 
